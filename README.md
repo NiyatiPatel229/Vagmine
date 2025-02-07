@@ -61,7 +61,7 @@ dependencies:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/vagmine.git
+git clone https://github.com/niyatipatel229/vagmine.git
 ```
 
 2. Install dependencies
