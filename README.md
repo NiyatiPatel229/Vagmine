@@ -1,4 +1,4 @@
-# Vagmine - Communication & Learning App for Disable People
+# Vagmine - Communication & Learning App for Specially Abeled People
 
 ## Overview
 Vagmine is a comprehensive Flutter application designed to assist users with communication and learning needs. The app combines social networking features with educational tools, making it particularly useful for individuals with diverse communication requirements.
